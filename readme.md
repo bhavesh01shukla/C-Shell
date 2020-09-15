@@ -4,10 +4,9 @@
 **Steps to run my code:**
 
 Execute these commands on terminal and not changing directory
-1. tar -xzvf 2018101036_assign2.tar.gz
-2. make
-3. ./a.out
-4. Now execute commands on my shell
+1. make
+2. ./a.out
+3. Now execute commands on my shell
 
 **Explaining different functions(here files) of my shell**
 
