@@ -1,0 +1,1 @@
+void location_func(void);  

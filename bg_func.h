@@ -1,0 +1,1 @@
+void bg_func(char in[]);

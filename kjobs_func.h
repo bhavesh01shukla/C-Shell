@@ -1,0 +1,1 @@
+void kjobs_func(char in[]);

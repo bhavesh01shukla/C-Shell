@@ -1,0 +1,1 @@
+void pipe_func(char in[]);

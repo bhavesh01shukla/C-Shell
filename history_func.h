@@ -1,0 +1,1 @@
+void history_func();

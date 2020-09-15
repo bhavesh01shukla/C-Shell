@@ -1,0 +1,1 @@
+void fg_func(char in[]);
